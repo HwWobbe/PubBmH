@@ -6,4 +6,5 @@ PubBmH = Pub(lic)  B(ook) m(arks) H(...)
 
 - https://symbl.cc/en/search/?q=tail
 - 0519: testing
-  - NetliFy integration 
+  - NetliFy integration
+    - suggestions are resulting from my perceived techStack
