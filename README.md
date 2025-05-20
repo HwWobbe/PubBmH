@@ -1,6 +1,7 @@
 # PubBmH
 PubBmH = Pub(lic)  B(ook) m(arks) H(...)
 
+- review newGuy resume
 
 ### UniCode
 
