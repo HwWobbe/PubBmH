@@ -1,8 +1,22 @@
 # PubBmH
 PubBmH = Pub(lic)  B(ook) m(arks) H(...)
 
-- review newGuy resume
-
+### review newGuy resume
+confirm: hourly Rate?
+- GIT capable
+- :interest
+  - testing
+    - written plans for assessment & agreement
+    - ...
+  - support shores
+    LOOM
+      - Andrea Demo - ideally given by Lz as trainingByTutoring
+  - Curbside demo - by eric
+    - LaLo role
+    - report designs via CurbSide
+      - UlcLrc
+      - centre of 3n X 3m
+      - ...
 ### UniCode
 
 - review this to see if it can be discarded
