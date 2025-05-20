@@ -5,7 +5,7 @@
 PubBmH = Pub(lic)  B(ook) m(arks) H(...)
 
 ## consider:
-- confirmations of liveStatus
+- confirmation(s) of liveStatus
   - adding a TW/index.html file
     - expanding my use of:
       -  autoComplete
