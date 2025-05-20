@@ -16,6 +16,7 @@ PubBmH = Pub(lic)  B(ook) m(arks) H(...)
   - it should be possible for some of them to have OAUTH protection
     - this matters fdor HwWvW.com
       - ...
+- ...
 
 ### review newGuy resume
 confirm: hourly Rate?
