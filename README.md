@@ -5,6 +5,12 @@
 PubBmH = Pub(lic)  B(ook) m(arks) H(...)
 
 ## consider:
+- confirmations of liveStatus
+  - adding a TW/index.html file
+    - expanding my use of:
+      -  autoComplete
+      -  dataDictionary instances both in the new site, and
+      -  in localHost memory ( as a WPA ? )
 - colorWheel hotKey assigments
   - it should be possible for some of them to have OAUTH protection
     - this matters fdor HwWvW.com
