@@ -10,3 +10,4 @@ PubBmH = Pub(lic)  B(ook) m(arks) H(...)
 - 0519: testing
   - NetliFy integration
     - suggestions are resulting from my perceived techStack
+- confirmations: ...
