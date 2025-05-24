@@ -16,7 +16,7 @@ PubBmH = Pub(lic)  B(ook) m(arks) H(...)
     - autoUpdate this file
 - colorWheel hotKey assigments
   - it should be possible for some of them to have OAUTH protection
-    - this matters fdor HwWvW.com
+    - this matters for HwWvW.com
       - ...
 - ...
 
