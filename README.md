@@ -14,6 +14,9 @@ PubBmH = Pub(lic)  B(ook) m(arks) H(...)
       -  dataDictionary instances both in the new site, and
       -  in localHost memory ( as a WPA ? )
     - autoUpdate this file ( whatever that meant )
+- AnJ 3 QUs needs attention
+  - neverAgain ; growthNeeds (competes ) ; newGuy ( just Chair )
+    - ...
 - colorWheel hotKey assigments
   - it should be possible for some of them to have OAUTH protection
     - this matters for HwWvW.com
