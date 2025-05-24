@@ -13,7 +13,7 @@ PubBmH = Pub(lic)  B(ook) m(arks) H(...)
       -  autoComplete
       -  dataDictionary instances both in the new site, and
       -  in localHost memory ( as a WPA ? )
-    - autoUpdate this file
+    - autoUpdate this file ( whatever that meant )
 - colorWheel hotKey assigments
   - it should be possible for some of them to have OAUTH protection
     - this matters for HwWvW.com
