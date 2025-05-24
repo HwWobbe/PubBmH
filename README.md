@@ -23,6 +23,7 @@ PubBmH = Pub(lic)  B(ook) m(arks) H(...)
 ### review newGuy resume
 confirm: hourly Rate?
 - GIT capable
+  - ...
 - :interest
   - testing
     - written plans for assessment & agreement
