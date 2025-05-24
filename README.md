@@ -17,7 +17,7 @@ PubBmH = Pub(lic)  B(ook) m(arks) H(...)
 - colorWheel hotKey assigments
   - it should be possible for some of them to have OAUTH protection
     - this matters for HwWvW.com
-      - ...
+      - GrimH instructions have been printed
 - ...
 
 ### review newGuy resume
