@@ -1,7 +1,6 @@
 
 # investigate:
 - https://app.netlify.com/teams/hwwobbe/extensions
-  - ... ??
  
 # PubBmH
 PubBmH = Pub(lic)  B(ook) m(arks) H(...)
