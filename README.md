@@ -31,7 +31,11 @@ confirm: hourly Rate?
   - testing
     - written plans for assessment & agreement
       - this should be paid work
-  - support shores
+
+- try textBlaze alaiases for LaLo from CurbSide
+
+- ...
+  - support chores
     LOOM
       - Andrea Demo - ideally given by Lz as trainingByTutoring
   - Curbside demo - by eric
