@@ -30,7 +30,7 @@ confirm: hourly Rate?
 - :interest
   - testing
     - written plans for assessment & agreement
-    - ...
+      - this should be paid work
   - support shores
     LOOM
       - Andrea Demo - ideally given by Lz as trainingByTutoring
