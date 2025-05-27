@@ -6,6 +6,21 @@
 # PubBmH
 PubBmH = Pub(lic)  B(ook) m(arks) H(...)
 
+	* Notion
+	* netlify
+	* Laititude
+	* CcBR Blind repair Regs.
+	* ☽♂☿♃♀♄☉
+	* DiigoH
+	* 
+
+Notion
+netlify
+Laititude
+CcBR Blind repair Regs.
+☽♂☿♃♀♄☉
+DiigoH
+
 ## consider:
 - confirmation(s) of liveStatus
   - adding a TW/index.html file
