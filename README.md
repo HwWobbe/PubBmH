@@ -31,7 +31,7 @@ DiigoH
     - autoUpdate this file ( whatever that meant )
 - AnJ 3 QUs needs attention
   - neverAgain ; growthNeeds (competes ) ; newGuy ( just Chair )
-    - ...
+    - try self-editing with GrimH
 - colorWheel hotKey assigments
   - it should be possible for some of them to have OAUTH protection
     - this matters for HwWvW.com
