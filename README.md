@@ -22,7 +22,7 @@ DiigoH
 	* 
 
 ## consider:
-- confirmation(s) of liveStatus
+- confirmation(s) of liveStatus - check Netlify/projects
   - adding a TW/index.html file
     - expanding my use of:
       -  autoComplete - confirm this is working via re-tests
