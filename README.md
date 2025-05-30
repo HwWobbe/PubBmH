@@ -25,7 +25,7 @@ DiigoH
 - confirmation(s) of liveStatus
   - adding a TW/index.html file
     - expanding my use of:
-      -  autoComplete
+      -  autoComplete - confirm this is working via re-tests
       -  dataDictionary instances both in the new site, and
       -  in localHost memory ( as a WPA ? )
     - autoUpdate this file ( whatever that meant )
