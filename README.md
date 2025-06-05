@@ -3,6 +3,7 @@
 - https://app.netlify.com/teams/hwwobbe/extensions
 - https://dashboard.blaze.today/
   - regained access to the mscCreds via hww...
+  - confirm Teranet access restored
 - newPal: ...
   - via
     - GitHub public repo?
