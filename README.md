@@ -2,7 +2,7 @@
 # investigate:
 - https://app.netlify.com/teams/hwwobbe/extensions
 - https://dashboard.blaze.today/
-  - regain access to the mscCreds
+  - regained access to the mscCreds via hww...
 - ...
  
 # PubBmH
