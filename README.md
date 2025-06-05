@@ -3,6 +3,10 @@
 - https://app.netlify.com/teams/hwwobbe/extensions
 - https://dashboard.blaze.today/
   - regained access to the mscCreds via hww...
+- newPal: ...
+  - via
+    - GitHub public repo?
+    - DfIp repo? - chat with DplT.ModDay
 - ...
  
 # PubBmH
