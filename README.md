@@ -5,7 +5,8 @@
   - regained access to the mscCreds via hww...
   - confirm Teranet access restored
   - API access via both MPAC and Ternet.
-    - explain Agwnt thoughts
+    - explain Agent thoughts
+    - tech - then mgmt.
 - newPal: ...
   - via
     - GitHub public repo?
