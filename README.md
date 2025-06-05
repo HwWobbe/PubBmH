@@ -4,6 +4,8 @@
 - https://dashboard.blaze.today/
   - regained access to the mscCreds via hww...
   - confirm Teranet access restored
+  - API access via both MPAC and Ternet.
+    - explain Agwnt thoughts
 - newPal: ...
   - via
     - GitHub public repo?
