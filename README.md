@@ -32,7 +32,7 @@ DiigoH
 	* 
 
 ## consider:
-- .tn propagation
+- .tn propagation - which {c/sh)ould become a sandard set of fields
 - confirmation(s) of liveStatus (pulseH) - check Netlify/projects
   - adding a TW/index.html file
     - expanding my use of:
