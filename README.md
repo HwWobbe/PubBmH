@@ -8,6 +8,9 @@
     - explain Agent thoughts
     - tech - then mgmt.
 - learn: https://blaze.today/guides/time/
+  - Text Blaze can insert the current date.
+    - the initial test in the GitHub environment was very helpful
+      - this will reduce the need for copyBlocks
   - seems more functional than elsCalendar
   - comsider .ho within .tb .textb 
   - .al(ias) logic may be effective
