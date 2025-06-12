@@ -8,7 +8,7 @@
     - explain Agent thoughts
     - tech - then mgmt.
 - learn: https://blaze.today/guides/time/
-  - seems more functional that elsCalendar
+  - seems more functional than elsCalendar
 - newPal: ...
   - via
     - GitHub public repo?
