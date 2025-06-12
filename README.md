@@ -12,6 +12,7 @@
     - the initial test in the GitHub environment was very helpful
       - this will reduce the need for copyBlocks
   - seems more functional than elsCalendar
+    - ☽♂☿♃♀♄☉ = an example .da
   - comsider .ho within .tb .textb 
   - .al(ias) logic may be effective
 - newPal: ...
