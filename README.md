@@ -9,6 +9,8 @@
     - tech - then mgmt.
 - learn: https://blaze.today/guides/time/
   - seems more functional than elsCalendar
+  - comsider .ho within .tb .textb 
+  - .al(ias) logic may be effective
 - newPal: ...
   - via
     - GitHub public repo?
