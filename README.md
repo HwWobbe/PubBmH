@@ -7,6 +7,8 @@
   - API access via both MPAC and Ternet.
     - explain Agent thoughts
     - tech - then mgmt.
+- learn: https://blaze.today/guides/time/
+  - seems more functional that elsCalendar
 - newPal: ...
   - via
     - GitHub public repo?
