@@ -1,5 +1,5 @@
 
-## guickLinks:
+## quickLinks:
 ...
 
 # investigate:
