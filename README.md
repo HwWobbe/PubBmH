@@ -14,6 +14,7 @@
   - regained access to the mscCreds via hww...
     - annotate the procedure
   - confirm Teranet access restored
+    - the bill was paid on -06-20
   - API access via both MPAC and Ternet.
     - explain Agent thoughts
     - tech - then mgmt.
