@@ -17,6 +17,7 @@
     - the bill was paid on -06-20
       - confirm access by asking LsT for a report
         - JkwT should get involved
+          - discuss this with LsT
   - API access via both MPAC and Ternet.
     - explain Agent thoughts
     - tech - then mgmt.
