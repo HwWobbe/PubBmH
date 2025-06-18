@@ -15,6 +15,7 @@
     - annotate the procedure
   - confirm Teranet access restored
     - the bill was paid on -06-20
+      - confirm access by asking LsT for a report
   - API access via both MPAC and Ternet.
     - explain Agent thoughts
     - tech - then mgmt.
