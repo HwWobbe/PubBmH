@@ -12,6 +12,7 @@
 - https://app.netlify.com/teams/hwwobbe/extensions
 - https://dashboard.blaze.today/
   - regained access to the mscCreds via hww...
+    - annotate the procedure
   - confirm Teranet access restored
   - API access via both MPAC and Ternet.
     - explain Agent thoughts
