@@ -72,7 +72,7 @@ DiigoH
         - localGitInstall is taking precedence 
 - ...
 
-### review newGuy resume
+### review newGuy (?) resume
 confirm: hourly Rate?
 - GIT capable
   - ...
