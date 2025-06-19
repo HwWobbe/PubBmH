@@ -12,7 +12,7 @@
 - https://app.netlify.com/teams/hwwobbe/extensions
 - https://dashboard.blaze.today/
   - regained access to the mscCreds via hww...
-    - annotate the procedure
+    - annotate the procedure - fully
   - confirm Teranet access restored
     - the bill was paid on -06-20
       - confirm access by asking LsT for a report
