@@ -3,8 +3,9 @@
 ...
 
 - ... - keep nudging this forward -
+  - updated GISTS (noshow)
   -https://claude.ai/chat/0181dd85-da4f-4005-ac28-9fd7195a53de
-  - annotate the preceeding line
+    - annotate the preceeding line
   - https://tiddlyhost.com/sites -
 
 ### Breadcrumbs:
