@@ -9,8 +9,8 @@
   - https://tiddlyhost.com/sites -
 - https://github.com/HwWobbe/localGit/blob/main/README.md
   - DplChatTn
-  -〖 ... 〗brackets type 1/many
-    -   ❰❱ - used as a 2charPair
+-〖 ... 〗brackets type 1/many
+  -   ❰❱ - used as a 2charPair
  
 ### Breadcrumbs:
 
