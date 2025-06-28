@@ -13,7 +13,7 @@
       - Srihani as an exmaple - eld: he get's it.
 -  【】brackets type 1/many
   - ❰❱ - used as a 2charPair
-  - ... 
+  - ... ...
  
 ### Breadcrumbs:
 
