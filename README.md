@@ -18,6 +18,9 @@
 ### ♃
 ...
 
+- note the apparent styling difference between .th and .fr
+- activate the textBlaze weekDay dotCmds
+
 ### ♀
 ...
 
