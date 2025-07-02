@@ -17,7 +17,7 @@
 
 ### ♀
 - [♀](https://github.com/HwWobbe/PubBmH/edit/main/README.md#♀]
-  _ ?? effective /?
+  - ?? effective /?
 
 ### ♃
 ...
