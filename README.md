@@ -32,6 +32,8 @@
 ... ...
 
 ### investigate:
+#### ☿
+- add prettyLink 
 - ... ☽♂☿♃♀♄☉
   - ...
 - https://app.netlify.com/teams/hwwobbe/extensions
