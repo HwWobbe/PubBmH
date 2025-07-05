@@ -15,6 +15,14 @@
   - ❰❱ - used as a 2charPair
   - ... ...
 
+### ☽
+...
+- add nowDay to quickLinls
+- ...
+
+###♂
+...
+
 ### ♀
 - [♀](https://github.com/HwWobbe/PubBmH/edit/main/README.md#♀]
   - ?? effective /?
