@@ -37,7 +37,7 @@
 - activate the textBlaze weekDay dotCmds
   - 
 
-### ♀
+# ♀
 ...
 
 0725: access recovered
