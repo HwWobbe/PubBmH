@@ -44,7 +44,7 @@
 
 
 # ㉚ Weekno.
-- new starter installed
+- new starter installed in Yyz
 
 
 ### Breadcrumbs:
