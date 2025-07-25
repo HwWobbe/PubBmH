@@ -43,7 +43,7 @@
 0725: access finally recovered
 
 
-## ㉙
+# ㉚ Weekno.
 
 
 
