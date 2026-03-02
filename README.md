@@ -49,7 +49,7 @@ Resumng ...
 
 <hr>
 
-# ㉚ Weekno.
+# 2025-㉚ Weekno.
 - new starter installed in Yyz
 
 
