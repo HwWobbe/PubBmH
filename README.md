@@ -23,8 +23,8 @@
 - add nowDay to quickLinks
 - ...
 
-###♂
-...
+#♂
+Resumng ...
 
 ### ♀
 - [♀](https://github.com/HwWobbe/PubBmH/edit/main/README.md#♀]
@@ -37,7 +37,7 @@
 - activate the textBlaze weekDay dotCmds
   - 
 
-# ♀ FriDay
+### ♀ FriDay
 ...
 
 0725: access finally recovered
