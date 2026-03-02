@@ -42,6 +42,12 @@
 
 0725: access finally recovered
 
+<hr>
+
+# resuming @ 2026-03-02
+...
+
+<hr>
 
 # ㉚ Weekno.
 - new starter installed in Yyz
