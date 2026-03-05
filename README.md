@@ -30,14 +30,14 @@ Resumng ...
 - [♀](https://github.com/HwWobbe/PubBmH/edit/main/README.md#♀]
   - ?? effective /?
 
-# ♃
+### ♃
 ...
 
 - note the apparent styling difference between .th and .fr
 - activate the textBlaze weekDay dotCmds
   - 
 
-### ♀ FriDay
+# ♀ FriDay
 ...
 
 0725: access finally recovered
