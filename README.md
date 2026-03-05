@@ -23,14 +23,14 @@
 - add nowDay to quickLinks
 - ...
 
-#♂
+### ♂
 Resumng ...
 
 ### ♀
 - [♀](https://github.com/HwWobbe/PubBmH/edit/main/README.md#♀]
   - ?? effective /?
 
-### ♃
+# ♃
 ...
 
 - note the apparent styling difference between .th and .fr
